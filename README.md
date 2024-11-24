@@ -16,7 +16,7 @@
 - Crafting **engaging and provocative presentations**.
 
 # ⚡ Fun Fact:
-I balance logic and creativity—an IT professional thriving in complex systems while exploring the art of whisky distillation.
+I balance logic and creativity—an IT professional thriving in complex systems while exploring the art of whisky distillation.  
 And also, I'm a part-time beekeeper :D 
 
 ---
