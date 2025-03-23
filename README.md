@@ -23,7 +23,7 @@ And also, I'm a part-time beekeeper :D
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cduverne)
-
+![Ko-Fi](https://ko-fi.com/cydit)
 ---
 
 ## 💻 Tech Stack (Fortunately, non-exhaustive list) :
