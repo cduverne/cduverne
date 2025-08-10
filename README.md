@@ -8,6 +8,7 @@
 
 # 🌱 I’m currently learning:
 - The **art of distillation** for spirits.
+- How to make **japanese blades**
 - **Advanced Docker and PHP integrations** for scalable applications.
 
 # 💬 Ask me about:
