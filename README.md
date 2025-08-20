@@ -3,6 +3,7 @@
 - **Developing plans for a gin and whisky distillery** in Belgium.
 
 # 🤝 I’m looking to collaborate on:
+- Any **FUN** IT project !
 - **Secure data management** in Docker environments.
 - **Financial planning** for startups and creative ventures.
 
