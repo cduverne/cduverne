@@ -11,6 +11,7 @@
 - The **art of distillation** for spirits.
 - How to make **japanese blades**
 - **Advanced Docker and PHP integrations** for scalable applications.
+- Agentic AI **mambo jumbo**
 
 # 💬 Ask me about:
 - **Enterprise IT architecture** and workflows.
