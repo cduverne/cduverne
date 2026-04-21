@@ -134,11 +134,6 @@ And also, I'm a part-time beekeeper :D
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=cduverne&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ## 🎉 Fun and Random Developer Quotes
 
 1. **"It's not a bug; it's an undocumented feature."**  
